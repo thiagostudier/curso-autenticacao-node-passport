@@ -1,2 +1,2 @@
 # curso-autenticacao-node-passport
-Curso School of Net - Autenticação com Mode.js e Passport
+Curso School of Net - Autenticação com Node.js e Passport
